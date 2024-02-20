@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Developer at New Way Solution</h1>
 <h3 align="center">a passionate Fullstack developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esakkiappans&label=Profile%20views&color=0e75b6&style=flat" alt="esakkiappans" /> </p>
+<p align="left" style="background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); padding: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=esakkiappans&label=Profile%20views&color=0e75b6&style=flat" alt="esakkiappans" />
+</p>
+
 
 
 <p align="left">
