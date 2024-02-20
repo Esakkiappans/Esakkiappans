@@ -50,7 +50,8 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azure)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure)
+
 
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
