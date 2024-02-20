@@ -26,11 +26,7 @@
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
   
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=esakkiappans&theme=radical" alt="esakkiappans" />
-  </a>
-</p>
+
 <h3 align="left">Connect with me:</h3>
 
 ### Hi there, I am Esakkiappan 👋
@@ -60,6 +56,11 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=white)
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=esakkiappans&theme=radical" alt="esakkiappans" />
+  </a>
+</p>
 
 
 <a title="Go to Source">
