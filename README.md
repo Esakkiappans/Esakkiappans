@@ -49,7 +49,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure)
 
 
