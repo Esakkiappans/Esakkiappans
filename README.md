@@ -33,17 +33,18 @@
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
 
 <h3 align="left">Connect with me:</h3>
-<style>
-.dark-bg {
-    background-color: #0d1117;
-}
-</style>
 
-<p align="left" class="dark-bg">
+
+<p align="left">
     <a href="https://twitter.com/esakkiappan47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esakkiappan47" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/esakkiappan-s-641971244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esakkiappan-s-641971244" height="30" width="40" /></a>
     <a href="https://instagram.com/anonydass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anonydass" height="30" width="40" /></a>
 </p>
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
 
 <h3 align="left">Languages and Tools:</h3>
