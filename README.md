@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esakkiappans&label=Profile%20views&color=0e75b6&style=flat" alt="esakkiappans" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=esakkiappans&theme=radical" alt="esakkiappans" />
-  </a>
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
@@ -30,7 +25,12 @@
 - 📄 **Know about my experiences:** With 1.5 years of hands-on experience as a full stack developer, I've immersed myself in diverse projects, honing my skills in web development and cloud technologies. Additionally, I have a solid understanding of SEO basics and have successfully managed a website with Google AdSense approval.
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
-
+  
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=esakkiappans&theme=radical" alt="esakkiappans" />
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 
 ### Hi there, I am Esakkiappan 👋
