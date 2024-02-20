@@ -60,10 +60,10 @@
   </a>
 </p>
 <a title="Go to Source">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true" style="width:48%;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true" style="width:47%;" />
 </a>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esakkiappans&theme=radical" alt="esakkiappans" style="width:48%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esakkiappans&theme=radical" alt="esakkiappans" style="width:47%;" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esakkiappans&show_icons=true&locale=en&layout=compact&theme=radical" alt="esakkiappans" style="width: 40%;" />
