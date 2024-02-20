@@ -59,12 +59,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=esakkiappans&theme=radical" alt="esakkiappans" />
   </a>
 </p>
-
-
 <a title="Go to Source">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true" style="width:48%;" />text
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true" style="width:48%;" />
 </a>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esakkiappans&theme=radical" alt="esakkiappans" style="width:48%;" />
 </p>
