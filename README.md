@@ -33,16 +33,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-### Hi there, I am Prerak Raja 👋
+### Hi there, I am Esakkiappan 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Esakkiappan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esakkiappan-s-641971244)](https://www.linkedin.com/in/esakkiappan-s-641971244)
 [![Gmail Badge](https://img.shields.io/badge/-Esakkiappan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samugaydass@gmail.com)](mailto:samugaydass@gmail.com) 
-
-
-<p align="left">
-    <a href="https://twitter.com/esakkiappan47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esakkiappan47" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/esakkiappan-s-641971244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esakkiappan-s-641971244" height="30" width="40" /></a>
-    <a href="https://instagram.com/anonydass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anonydass" height="30" width="40" /></a>
-</p>
+[![Instagram Badge](https://img.shields.io/badge/-Esakkiappan-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anonydass/)](https://www.instagram.com/anonydass/)
 
 🛠**Languages and Tools**
 
