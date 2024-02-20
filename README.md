@@ -64,7 +64,7 @@
 
 
 <a title="Go to Source">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true" style="width:48%;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true" " />
 </a>
 
 <p align="left">
