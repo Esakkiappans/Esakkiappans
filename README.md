@@ -59,9 +59,9 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032height="40")
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032height="100")
 <a title="Go to Source">
-  <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+  <img align="left" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esakkiappans&show_icons=true&locale=en&layout=compact&theme=radical" alt="esakkiappans" /></p>
