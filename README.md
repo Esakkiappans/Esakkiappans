@@ -27,8 +27,6 @@
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
   
 
-<h3 align="left">Connect with me:</h3>
-
 ### Hi there, I am Esakkiappan 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Esakkiappan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esakkiappan-s-641971244)](https://www.linkedin.com/in/esakkiappan-s-641971244)
 [![Gmail Badge](https://img.shields.io/badge/-Esakkiappan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samugaydass@gmail.com)](mailto:samugaydass@gmail.com) 
