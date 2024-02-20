@@ -60,7 +60,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=white)
 
-<a title="Go to Source" style="display: block;">
+<a title="Go to Source">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </a>
 
