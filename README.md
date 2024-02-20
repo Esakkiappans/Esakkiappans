@@ -33,6 +33,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
+### Hi there, I am Prerak Raja 👋
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esakkiappan-s-641971244)](https://www.linkedin.com/in/esakkiappan-s-641971244)
+[![Gmail Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samugaydass@gmail.com)](mailto:samugaydass@gmail.com) 
+
 
 <p align="left">
     <a href="https://twitter.com/esakkiappan47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esakkiappan47" height="30" width="40" /></a>
