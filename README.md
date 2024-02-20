@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esakkiappans&show_icons=true&locale=en&layout=compact&theme=radical" alt="esakkiappans" />
 </p>
 
-<p align="lest">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esakkiappans&theme=radical" alt="esakkiappans" />
 </p>
 <a title="Go to Source">
