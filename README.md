@@ -49,10 +49,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure)
-
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
@@ -61,9 +58,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=white)
+
 <a title="Go to Source" style="display: block; margin-top: -20px;">
   <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </a>
