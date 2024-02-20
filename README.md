@@ -45,7 +45,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esakkiappans&show_icons=true&locale=en&layout=compact" alt="esakkiappans" /></p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<a title="Go to Source">
   <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Esakkiappans&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esakkiappans&" alt="esakkiappans" /></p>
