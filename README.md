@@ -61,7 +61,7 @@
 ![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=white)
 
 
-<p align="left">
+<p align="left" width=40%;>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esakkiappans&show_icons=true&locale=en&layout=compact&theme=radical" alt="esakkiappans" />
 </p>
 <a title="Go to Source">
