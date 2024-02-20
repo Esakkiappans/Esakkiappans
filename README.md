@@ -36,7 +36,7 @@
 ### Hi there, I am Esakkiappan 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Esakkiappan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esakkiappan-s-641971244)](https://www.linkedin.com/in/esakkiappan-s-641971244)
 [![Gmail Badge](https://img.shields.io/badge/-Esakkiappan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samugaydass@gmail.com)](mailto:samugaydass@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-Esakkiappan-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anonydass/)](https://www.instagram.com/anonydass/)
+[![Instagram Badge](https://img.shields.io/badge/-Esakkiappan-833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anonydass/)](https://www.instagram.com/anonydass/)
 
 🛠**Languages and Tools**
 
