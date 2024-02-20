@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Developer at New Way Solution</h1>
 <h3 align="center">a passionate Fullstack developer 🚀</h3>
 
-<p align="left" style="background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); padding: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=esakkiappans&label=Profile%20views&color=0e75b6&style=flat" alt="esakkiappans" />
-</p>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esakkiappans&label=Profile%20views&color=0e75b6&style=flat" alt="esakkiappans" /> </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -48,18 +44,22 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azure)
+
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
