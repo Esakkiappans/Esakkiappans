@@ -55,7 +55,7 @@
 ![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=white)
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=esakkiappans&theme=radical" alt="esakkiappans" />
   </a>
 </p>
