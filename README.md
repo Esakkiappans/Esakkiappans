@@ -41,7 +41,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi)
+
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
