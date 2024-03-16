@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **samugaydass@gmail.com**
 
-- 📄 **Know about my experiences:** With 1.5 years of hands-on experience as a full stack developer, I've immersed myself in diverse projects, honing my skills in web development and cloud technologies. Additionally, I have a solid understanding of SEO basics and have successfully managed a website with Google AdSense approval.
+- 📄 **Know about my experiences:** With 1.5 years of hands-on experience as a full stack developer, I've immersed myself in diverse projects, honing my skills in web development and cloud technologies. Additionally, I have a solid understanding of SEO and have successfully managed a website with Google AdSense approval.
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
   
