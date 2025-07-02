@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Developer at New Way Solution</h1>
+<h1 align="center">Hi 👋, I'm Developer </h1>
 <h3 align="center">a passionate Fullstack developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esakkiappans&label=Profile%20views&color=0e75b6&style=flat" alt="esakkiappans" /> </p>
@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
-- 🔭 I’m currently working on enhancing my coding skills and contributing to exciting projects at **New Way Solution from USA. Excited to bring innovative solutions to life!**
+
 
 - 🌱 I’m currently learning **advanced techniques in software development.**
 
